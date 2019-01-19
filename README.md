@@ -1,3 +1,9 @@
+# Hooks News
+
+A simple app showing news article search results from the Hacker News API. The app uses (React Hooks) [https://reactjs.org/docs/hooks-intro.html] and is styled with (TailWind CSS)[https://tailwindcss.com/].
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
